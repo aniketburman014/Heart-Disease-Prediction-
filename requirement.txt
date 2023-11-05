@@ -1,4 +1,0 @@
-numpy
-pickle-mixin
-streamlit
-pandas
