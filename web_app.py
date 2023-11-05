@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import streamlit as st
 
-rf_model=pickle.load(open('heart-disease-rf_model.pk1' , 'rb'))
+rf_model=pickle.load(open('heart-disease-rf_model.pkl' , 'rb'))
 scaler=pickle.load(open('standard-scaler.pkl', 'rb'))
 
 
