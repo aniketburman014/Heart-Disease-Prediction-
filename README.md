@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a collaborative effort between Aniket(https://github.com/aniketburman014) and Preeti (https://github.com/preeti2104) to develop a Heart Disease Prediction System. The aim of the project is to create a predictive model that can assess the 
+This project is a collaborative effort between Aniket (https://github.com/aniketburman014) and Preeti (https://github.com/preeti2104) to develop a Heart Disease Prediction System. The aim of the project is to create a predictive model that can assess the 
 likelihood of a person having heart disease based on various input features such as age, gender, blood pressure, cholesterol levels, etc.
 
 ## Getting Started
@@ -25,5 +25,5 @@ To install Heart Disease Prediction System, follow these steps:
 2. Install the required packages:
    ```pip install -r requirements.txt```
 3. Run
-   ```streamlit run app.py```
+   ```streamlit run web_app.py```
 This will open up a GUI made with Streamlit where you can record your voice or upload audio and the model will predict the gender based on the voice.
